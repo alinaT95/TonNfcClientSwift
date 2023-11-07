@@ -5,7 +5,7 @@
 [![License](https://img.shields.io/cocoapods/l/TonNfcClientSwift.svg?style=flat)](https://cocoapods.org/pods/TonNfcClientSwift)
 [![Platform](https://img.shields.io/cocoapods/p/TonNfcClientSwift.svg?style=flat)](https://cocoapods.org/pods/TonNfcClientSwift)
 
-The library is developed to handle communication of iPhones with NFC TON Labs Security cards. It provides a useful API to work with all functionality (i.e. APDU commands) supported by NFC TON Labs Security card. The technical specification of TON Labs Security card can be found here https://ton.surf/scard.
+<!--The library is developed to handle communication of iPhones with NFC TON Labs Security cards. It provides a useful API to work with all functionality (i.e. APDU commands) supported by NFC TON Labs Security card. The technical specification of TON Labs Security card can be found here https://ton.surf/scard.-->
 
 You must have iOS version >= 13 and iPhone model >= 7.
 
